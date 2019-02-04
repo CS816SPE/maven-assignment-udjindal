@@ -1,3 +1,4 @@
+import java.util.Scanner;
 package com.mycompany.app;
 /**
  * Hello world!
